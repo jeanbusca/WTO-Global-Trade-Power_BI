@@ -1,4 +1,4 @@
-# WTO-Global-Trade-dashboard
+# WTO-Global-Trade-Power Bi Report
 I created a report in Power Bi desktop that summarises by country WTO data about goods import and export.
 The first page contain global stats, it is possible to select a specific country and to drill through to a second page for country specific stats. 
 
